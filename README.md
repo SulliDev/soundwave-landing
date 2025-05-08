@@ -8,7 +8,7 @@ A simple, responsive landing page for a fictional music app called SoundWave. Bu
 - Sections: Hero, Features, Playlist, Contact
 
 ## Live Demo
-👉 [View Live]([https://yourusername.github.io/soundwave-landing/])
+👉 [View Live](https://SulliDev.github.io/soundwave-landing/)
 
 ## Author
 Created by Shako (Sulli) Lomtadze
